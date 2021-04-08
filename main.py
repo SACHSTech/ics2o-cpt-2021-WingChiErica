@@ -15,7 +15,7 @@ print ("\nYou are a person who lucid dreams every night, one day you seemingly c
 
 #instructions
 print ("\n...Instructions...")
-print ("\n1. You will be able to make your own choices throughout this game which will either kill you or give you points, get 300 points to win")
+print ("\n1. You will be able to make your own choices throughout this game which will either kill you, survive to win")
 print ("2. You will be able to interact with a certain character and ask them guided questions")
 print ("3. *** means an action you are doing, --- is what your subconcious is telling you, <> is when you're speaking, <<>> is inner dialougue, and [] is author's P.O.V")
 print ("4. Do not type in anything other than what is instructed (it will be in parenthesis), it will crash the game")
@@ -81,7 +81,7 @@ while True:
    print ("\nFinona: Error...question uncomprehendable... variable: 'supersocks' unidentified")
    print ("<Ok, no supersocks it is>")
   if question == "5":
-   print ("\nFinona: You must go through 3 random courses , each one giving you certain amounts of points. Earn 300 points and you will wake up and you won't have to come back to Hellsbane system ever again, fail any courses, and you die. Would you like to ask anything else?")
+   print ("\nFinona: You must go through 3 random courses , each one giving you certain amounts of points. survive and you will wake up and you won't have to come back to Hellsbane system ever again, fail any courses, and you die. Would you like to ask anything else?")
 
 #First voyage prologue
 print ("\n<<This is insane. Why would this happen in a dream? That lady was speaking like a robot for goodness sake!>>")
