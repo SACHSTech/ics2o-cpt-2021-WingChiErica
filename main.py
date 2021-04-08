@@ -189,7 +189,7 @@ print ("\n<<Famous phrases, well that should be quite easy after all everyone sh
 
 #Famous phrases
 print ("\n???: Let's start easy! The first rule of Fight Club is...?")
-quote_finisher = input("\nfinish the quote (no capitals or punctuation): ")
+quote_finisher = input("\nfinish the quote (no capitals or punctuation, I used the EXACT quotes from the source so make sure you don't miss anything): ")
 
 if quote_finisher == "you do not talk about fight club":
   print ("\n???: DING DING DING, you are correct!")
@@ -204,7 +204,7 @@ print ("\n???: The next quote iiiisssss... Life is like a box of chocolates...")
 
 quote_finisher = input("\nfinish the quote (no capitals or punctuation): ")
 
-if quote_finisher == "\nyou never know what you're going to get":
+if quote_finisher == "you never know what you're going to get":
   print ("\n???: Two for two! You're on a roll " + name + "!")
 
 else: 
@@ -217,7 +217,7 @@ print ("\n???: Ready for the next quote? Well it doesn't matter, I'm giving it t
 
 quote_finisher = input("\nfinish the quote (no capitals or punctuation): ")
 
-if quote_finisher == "\ncatches the worm":
+if quote_finisher == "catches the worm":
   print ("\n???: Correct! You're getting closer to the end.")
 
 else: 
