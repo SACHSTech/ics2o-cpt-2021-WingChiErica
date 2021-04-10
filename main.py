@@ -92,7 +92,7 @@ print ("\n<Wait, why can't I just come with you?>")
 
 print ("\nFinona: Because you must complete the course, if you fail to do so or cheat in anyway, you, " + name + ", will disappear from this world forever.")
 
-print ("\n<First, how do you know my name? And second, does that mean the 50% of people who didn't pass died?")
+print ("\n<First, how do you know my name? And second, does that mean the 70% of people who didn't pass died?")
 
 print ("\nFinona: Your name, age, and gender are all stored in our database. " + name + " is " + str(age) + " and identifies themselves as a " + gender + ". is there anything that needs to be corrected?")
 
